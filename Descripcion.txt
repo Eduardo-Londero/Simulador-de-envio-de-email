@@ -1,0 +1,11 @@
+Simulador de envio de email
+
+Es un simulador de envio de emails con 3 campos
+con validacion y muestra mensajes de manera condicional en caso de no ingresar los datos
+de manera correcta o en caso de que esten vacios.
+el email debe ser un formato valido.
+el asunto y el mensaje no deben estar vacios.
+
+Al oprimir el boton "Enviar" simula el envio de email con un spinner y
+muestra un msj de enviado correctamente.
+Al oprimir el boton "Reset" se limpian todos los campos del formulario.
